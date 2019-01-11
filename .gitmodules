@@ -3,4 +3,4 @@
 	url = https://github.com/Odoth/Odoth.github.io
 [submodule "themes/hugo-minimalist-theme"]
 	path = themes/hugo-minimalist-theme
-	url = https://github.com/digitalcraftsman/hugo-minimalist-theme.git
+	url = https://github.com/Odoth/hugo-minimalist-theme.git
