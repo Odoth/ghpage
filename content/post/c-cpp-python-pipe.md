@@ -14,7 +14,7 @@ Recently I encountered the following circumstances:
 
 Python/C API for embedding Python in the application would probably be the cleanest approach, but as mentioned above, it was not an option in this case.
 
-One approach considered was to use pipes. Here I describe the approach and provide a proof of concept. The full proof of concept source code can be found at https://bitbucket.org/Odoth/cpp_python_pipe/. The proof of concept was made using C++11 and Python 2.7.
+One approach considered was to use pipes. Here I describe the approach and provide a proof of concept. The full proof of concept source code can be found at https://github.com/Odoth/cpp_python_pipe. The proof of concept was made using C++11 and Python 2.7.
 
 ## Pipes
 A pipe is a unidirectional data channel that can be used for interprocess communication. Basic pipes are created using the `pipe()` system call and can be used to facilitate communication between a parent process and a child process.
@@ -456,4 +456,4 @@ https://linux.die.net/man/7/pipe
 
 https://docs.python.org/2/library/struct.html
 
-https://bitbucket.org/Odoth/cpp_python_pipe/
+https://github.com/Odoth/cpp_python_pipe

@@ -14,9 +14,9 @@ We can also use other tools such as cx_Freeze to create an executable applicatio
 
 Full source for example PySide and PyQt5 applications are found here:
 
-https://bitbucket.org/Odoth/pyside-template/
+https://github.com/Odoth/pyside-template
 
-https://bitbucket.org/Odoth/pyqt5-template/
+https://github.com/Odoth/pyqt5-template
 
 
 ## Qt vs Other GUI Toolkits
@@ -288,8 +288,8 @@ def build_win_install():
 ## References
 https://wiki.qt.io/Qt_for_Python
 
-https://bitbucket.org/Odoth/pyside-template/
+https://github.com/Odoth/pyside-template
 
-https://bitbucket.org/Odoth/pyqt5-template/
+https://github.com/Odoth/pyqt5-template
 
 http://doc.qt.io/Qt-5/designer-using-custom-widgets.html
